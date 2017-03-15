@@ -1,0 +1,13 @@
+{
+    "name": "arkiv2/oneouts",
+    "description": "A laravel package for one-off braintree/paypal payments",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arki Valencia",
+            "email": "arvalencia@gbox.adnu.edu.ph"
+        }
+    ],
+    "require": {}
+}
